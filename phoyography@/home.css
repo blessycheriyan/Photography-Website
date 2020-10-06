@@ -155,10 +155,7 @@ span{
 
     }
 
-    .carousel slide carousel-fade{
- 
-      width: 133%;
-    }
+  
   }
 
 
@@ -168,26 +165,11 @@ span{
       text-align: justify;
     }
 
-    .first{
-    
-      width: 201%;
-  }
+ 
 
 }
 
 
-@media(max-width:375px){
-   .first{  
-      width: 150%;
-   }
-  }
-  
 
-
-  @media(max-width:425px){
-    .first{  
-      width: 150%;
-   }
-   
  
 
